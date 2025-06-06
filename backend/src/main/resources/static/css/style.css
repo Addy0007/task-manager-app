@@ -1,1 +1,9 @@
 @charset "UTF-8";
+.category-img {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto 10px;
+}
